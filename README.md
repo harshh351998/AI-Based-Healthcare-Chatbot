@@ -46,6 +46,13 @@ The system comprises of 2 major modules with their sub-modules as follows:
 • CSS
 • Natural Language Processing
 
+## Steps for running this project.
+1. Download or clone this repo in your desktop.
+2. Add this folder to Xammp/htdocs.
+3. Open browser and go to phpmyadmin.
+4. Create the database and import the existing attendance database from your project folder.
+5. Run this project in localhost machine.
+
 ## Demo Video
 Youtube Link:- https://www.youtube.com/watch?v=xiCSSJ2nrx4
  
