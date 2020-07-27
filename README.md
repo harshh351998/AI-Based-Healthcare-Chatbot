@@ -27,7 +27,7 @@ The system comprises of 2 major modules with their sub-modules as follows:
 ## Proposed System
 •	Considering the anomalies in the existing system computerization of the whole activity is being suggested after initial analysis.
 •	Proposed system is accessed by two entity namely, Admin and User.
-•	Admin need to login with their valid login credentials first in order to access the android application.
+•	Admin need to login with their valid login credentials first in order to access the web application.
 •	After successful login, admin can access all the modules and manage each task accurately.
 •	Admin can perform task such as Admin can login, admin can arrange questions and answers.
 •	Admin can also view the users and can update hospital details and available doctors’ details.
