@@ -55,4 +55,6 @@ The system comprises of 2 major modules with their sub-modules as follows:
 
 ## Demo Video
 Youtube Link:- https://www.youtube.com/watch?v=xiCSSJ2nrx4
- 
+
+## Hosted website
+http://healthcare-clinic.epizy.com/?i=1
